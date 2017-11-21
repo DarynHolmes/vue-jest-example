@@ -2,6 +2,12 @@
 
 This example was created to help get an answer to the question here: https://stackoverflow.com/questions/47177574/how-do-you-load-vue-environment-variables-when-using-vue-test-utils-with-jest
 
+This was originally created with the Vue CLI tool, using
+
+```
+vue init webpack vue-jest-example
+```
+
 I would like to use the Environment Variable explained here: https://vuejs-templates.github.io/webpack/env.html
 
 I followed the excellent vue-test-utils guide here: https://vue-test-utils.vuejs.org/en/guides/testing-SFCs-with-jest.html
